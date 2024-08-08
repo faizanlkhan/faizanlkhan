@@ -12,7 +12,7 @@
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: workwithflk@gmail.com
 
 
-### <samp>&gt; Technologies & Tools:</samp>
+### <samp>&gt; My Tech Stack:</samp>
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
@@ -22,17 +22,18 @@
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=openai)](https://skillicons.dev)
+
 
 
 ### <samp>&gt; My Socials:</samp>
 
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/faizanlkhan)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/faizanlkhan)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/faizanlkhan)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/faizanlkhan)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/faizanlkhan)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/faizanlkhan)
 
 ### <samp>&gt; ☕ Support My Work:</samp>
 
 If you enjoy my projects and would like to support my work, consider buying me a coffee!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
+<a href='(https://www.buymeacoffee.com/faizanlkhan)' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at buymeacoffee.com' /></a>
