@@ -5,9 +5,7 @@
 
 - I love to code and build new things.
 - Building an AI Newsletter and a Blog page.
- <div>
-   <img align="right" width="300" height= "150" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
- </div>
+ 
  
  
  ### <samp>&gt; More about me:</samp>
