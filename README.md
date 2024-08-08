@@ -4,8 +4,8 @@
 ### <samp>&gt; Hi there, I'm <a href="[https://twitter.com/faizanlkhan]" target="_blank">Faizan Laique Khan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
 
 
-- I am a 👨‍🎓Student, 👨‍💻Computer engineer , love programming, 🧳astrophysics and 🏃‍♂️football.
-- As a computer engineer, I try to make changes everyday and I keep learning about new tech.
+- I love to code and build new things.
+- Building an AI Newsletter and a Blog page.
  <div>
    <img align="right" width="300" height= "150" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
  </div>
