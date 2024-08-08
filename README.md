@@ -1,6 +1,3 @@
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=faizanlkhan&label=Visitors&color=0e75b6&style=flat&theme=transparent" alt="faizanlkhan" /> </p>
-
 ### <samp>&gt; Hi there, I'm <a href="[https://twitter.com/faizanlkhan]" target="_blank">Faizan Laique Khan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
 
 - I love to code and build new things.
