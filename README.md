@@ -10,7 +10,7 @@
  </div>
  
  
- ### <samp>&gt; More about me</samp>
+ ### <samp>&gt; More about me:</samp>
 
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently building my own AI Newsletter: <a href="https://antirealityai.com/">AntiReality AI</a>
 - <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/message.gif" width="21" />&nbsp;&nbsp; I also write Blogs: <a href="https://99wpm.com/">99wpm</a>
