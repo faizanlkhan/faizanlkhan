@@ -1,49 +1,48 @@
-# Welcome to my profile! 🎉
-### 👨‍💻 About Me
 
-Hello! I love to code and build new things. 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=faizanlkhan&label=Visitors&color=0e75b6&style=flat&theme=transparent" alt="faizanlkhan" /> </p>
 
-### 🌐 Technologies I Use
+### <samp>&gt; Hi there, I'm <a href="[https://twitter.com/faizanlkhan]" target="_blank">Faizan Laique Khan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
 
-- **HTML**: Crafting the structure of the web with style.
-- **CSS**: Bringing designs to life with elegance.
-- **JavaScript**: Adding interactivity and dynamic features to my projects.
-- **Python**: Building robust back-end systems and automating tasks.
 
-### 📚 Projects
+- I am a 👨‍🎓Student, 👨‍💻Computer engineer , love programming, 🧳astrophysics and 🏃‍♂️football.
+- As a computer engineer, I try to make changes everyday and I keep learning about new tech.
+ <div>
+   <img align="right" width="300" height= "150" src="https://github.com/GauravKesh/GauravKesh/blob/main/img/coder.gif">
+ </div>
+ 
+ 
+ ### 👨‍💻 Talking about Personal Stuffs:
 
-Here are some of the projects I've worked on:
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently building my own AI Newsletter <a href="https://antirealityai.com/">AntiReality AI</a>
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/message.gif" width="21" />&nbsp;&nbsp; I also write Blogs: <a href="https://99wpm.com/">99wpm</a>
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: workwithflk@gmail.com;
 
-- **[Weather Web App](https://github.com/faizanlkhn/WeatherApp)**: A classic web app designed to show current weather of any place.
 
-### 💬 Connect with Me
+### ⚒️ Technologies & Tools:
 
-Feel free to reach out! I'm always open to discussing new projects or collaborations.
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
 
-- **X/Twitter**: [X Profile](https://twitter.com/faizanlkhan)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/faizanlkhan/)
-- **Email**: workwithflk@gmail.com
 
----
 
-### 💾 GitHub Stats
+### 📡 My Social:
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/faizanlkhan)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/faizanlkhan)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/faizanlkhan)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizanlkhan&show_icons=true&theme=radical)
+### ☕ Support My Work:
 
----
+If you enjoy my projects and would like to support my work, consider buying me a coffee!
 
-### 🎨 Fun Fact
-
-I love pixel art, football, astrophysics and a lot of things
-
----
-
-### ☕ Support My Work
-
-If you enjoy my projects and would like to support my work, consider buying me a coffee! 
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/faizanlkhan)
-
----
-
-Thanks for visiting my profile! Let's create something amazing together! 🚀
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
