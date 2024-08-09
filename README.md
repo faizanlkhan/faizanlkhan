@@ -1,7 +1,7 @@
 ### <samp>&gt; Hi there, I'm <a href="[https://twitter.com/faizanlkhan]" target="_blank">Faizan Laique Khan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
 
 - I love to code and build new things.
-- Currently building an AI Newsletter and a Blog page.
+- Currently growing an AI Newsletter and a Blog page.
  
  
  
