@@ -36,4 +36,8 @@
 
 If you enjoy my projects and would like to support my work, consider buying me a coffee!
 
-<a href='(https://www.buymeacoffee.com/faizanlkhan)' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at buymeacoffee.com' /></a>
+<a href="https://www.buymeacoffee.com/faizanlkhan" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me a Coffee" width="125" style='border-radius:150px;'>
+</a>
+
+
