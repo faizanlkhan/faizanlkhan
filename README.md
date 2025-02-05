@@ -20,6 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jupyter)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=openai)](https://skillicons.dev)
