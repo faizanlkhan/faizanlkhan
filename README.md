@@ -31,14 +31,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/faizanlkhan)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/faizanlkhan)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/faizanlkhan)
 
-### <samp>&gt; ☕ Support My Work:</samp>
-
-If you enjoy my projects and would like to support my work, consider buying me a coffee!
-
-<a href="https://www.buymeacoffee.com/faizanlkhan" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me a Coffee" width="125" style='border-radius:150px;'>
-</a>
 
 
