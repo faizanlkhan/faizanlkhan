@@ -1,36 +1,81 @@
-### <samp>&gt; Hi there, I'm <a href="[https://twitter.com/faizanlkhan]" target="_blank">Faizan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> </samp>
+```
+███████╗ █████╗ ██╗███████╗ █████╗ ███╗   ██╗
+██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║
+█████╗  ███████║██║  ███╔╝ ███████║██╔██╗ ██║
+██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║██║╚██╗██║
+██║     ██║  ██║██║███████╗██║  ██║██║ ╚████║
+╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-- I love to code and build new things.
-- Currently growing an AI Newsletter and a Blog page.
- 
- 
- 
- ### <samp>&gt; More about me:</samp>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&width=600&lines=Hey%2C+I'm+Faizan+%F0%9F%91%BE;AI+Researcher+%2F+Builder+%2F+Curious+Human;Solopreneur+in+the+making...;Future+Tech+Nomad+%F0%9F%8C%8D;Always+shipping+something+new." alt="Typing SVG" />
 
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently building my own AI Newsletter: <a href="https://antirealityai.beehiiv.com/">AntiReality AI</a>
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/message.gif" width="21" />&nbsp;&nbsp; I also write Blogs: <a href="https://99wpm.com/">99wpm</a> (Domain expired, will be back soon!)
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: workwithflk@gmail.com
+---
 
+```bash
+$ whoami
+> faizan laique khan
+> researcher · builder · solopreneur · perpetually curious
 
-### <samp>&gt; My Tech Stack:</samp>
+$ cat current_status.txt
+> 📡 Paper under review — Lunar Landing Site Selection w/ RL
+> 📰 Growing an AI Newsletter → antirealityai.beehiiv.com
+> ✍️  Writing a blog → 99wpm.com (back soon)
+> 🌍 Aspiring tech nomad — location: TBD
+> 🛠️  Always building. Always learning.
+```
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=openai)](https://skillicons.dev)
+---
 
+### `> ls -la ./about_me`
 
+```
+drwxr-xr-x  research/        lunar RL, geospatial AI, PPO agents
+drwxr-xr-x  newsletter/      AI · weekly · no fluff → antirealityai.beehiiv.com
+drwxr-xr-x  blog/            essays on tech, ideas & building → 99wpm.com
+drwxr-xr-x  solopreneur/     building products solo, figuring it out as I go
+drwxr-xr-x  nomad_plan/      [ LOADING... destination not yet set ]
+-rw-r--r--  curiosity.exe    always running in background
+```
 
-### <samp>&gt; My Socials:</samp>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/faizanlkhan)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/faizanlkhan)
+### `> cat research.log`
 
+```
+[2025] "Adaptive Feature-Weight Optimization for Lunar Landing Site
+        Selection Using Reinforcement Learning"
+        → Status: under review
+        → Method: PPO · Geospatial AI · Adaptive MCDM
+        → Inst:   Presidency University, Bengaluru
+```
 
+---
 
+### `> cat tech_stack.sh`
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,js,html,css,mysql,git,github,vscode,opencv,pytorch)](https://skillicons.dev)
+
+---
+
+### `> cat socials.conf`
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/faizanlkhan)&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/faizanlkhan)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-faizanlkhan.vercel.app-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://faizanlkhan.vercel.app/)
+
+```
+mail      →  workwithflk@gmail.com
+portfolio →  faizanlkhan.vercel.app
+news      →  antirealityai.beehiiv.com
+blog      →  99wpm.com
+```
+
+---
+
+```bash
+$ echo $PHILOSOPHY
+> "Ship it. Learn from it. Build again."
+
+$ exit
+> Connection closed. See you on the internet. 🌐
+```
