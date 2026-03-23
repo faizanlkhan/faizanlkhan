@@ -53,7 +53,7 @@ drwxr-xr-x  nomad_plan/      [ LOADING... destination not yet set ]
 
 ### `> cat tech_stack.sh`
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,js,html,css,mysql,git,github,vscode,opencv,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,js,html,css,mysql,git,github,vscode,jupyter,tensorflow,opencv,pytorch)](https://skillicons.dev)
 
 ---
 
@@ -62,6 +62,7 @@ drwxr-xr-x  nomad_plan/      [ LOADING... destination not yet set ]
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/faizanlkhan)&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/faizanlkhan)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizanlkhan.vercel.app-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://faizanlkhan.vercel.app/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-AntiReality%20AI-00FF41?style=for-the-badge&logo=beehiiv&logoColor=black)](https://antirealityai.beehiiv.com/)
 
 ```
 e-mail     →  workwithflk@gmail.com
