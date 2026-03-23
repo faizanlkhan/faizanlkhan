@@ -20,7 +20,7 @@ $ cat current_status.txt
 > 📡 Paper under review — Lunar Landing Site Selection w/ RL
 > 📰 Growing an AI Newsletter → antirealityai.beehiiv.com
 > ✍️  Writing a blog → 99wpm.com (back soon)
-> 🌍 Aspiring tech nomad — location: TBD
+> 🌍 Aspiring tech nomad — location: localhost:8080
 > 🛠️  Always building. Always learning.
 ```
 
