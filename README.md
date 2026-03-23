@@ -1,13 +1,13 @@
 ```
-███████╗ █████╗ ██╗███████╗ █████╗ ███╗   ██╗
-██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║
-█████╗  ███████║██║  ███╔╝ ███████║██╔██╗ ██║
-██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║██║╚██╗██║
-██║     ██║  ██║██║███████╗██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+███████╗ █████╗ ██╗███████╗ █████╗ ███╗   ██╗    ██╗  ██╗██╗  ██╗ █████╗ ███╗  ██╗
+██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║    ██║ ██╔╝██║  ██║██╔══██╗████╗ ██║
+█████╗  ███████║██║  ███╔╝ ███████║██╔██╗ ██║    █████╔╝ ███████║███████║██╔██╗██║
+██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║██║╚██╗██║    ██╔═██╗ ██╔══██║██╔══██║██║╚████║
+██║     ██║  ██║██║███████╗██║  ██║██║ ╚████║    ██║  ██╗██║  ██║██║  ██║██║ ╚███║
+╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&width=600&lines=Hey%2C+I'm+Faizan+%F0%9F%91%BE;AI+Researcher+%2F+Builder+%2F+Curious+Human;Solopreneur+in+the+making...;Future+Tech+Nomad+%F0%9F%8C%8D;Always+shipping+something+new." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&width=600&lines=Hey%2C+I'm+Faizan+L.+Khan+%F0%9F%91%BE;AI+Researcher+%2F+Builder+%2F+Curious+Human;Solopreneur+in+the+making...;Future+Tech+Nomad+%F0%9F%8C%8D;Always+shipping+something+new." alt="Typing SVG" />
 
 ---
 
@@ -64,10 +64,10 @@ drwxr-xr-x  nomad_plan/      [ LOADING... destination not yet set ]
 [![Portfolio](https://img.shields.io/badge/Portfolio-faizanlkhan.vercel.app-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://faizanlkhan.vercel.app/)
 
 ```
-mail      →  workwithflk@gmail.com
-portfolio →  faizanlkhan.vercel.app
-news      →  antirealityai.beehiiv.com
-blog      →  99wpm.com
+e-mail     →  workwithflk@gmail.com
+portfolio  →  faizanlkhan.vercel.app
+newsletter →  antirealityai.beehiiv.com
+tech blog  →  99wpm.com
 ```
 
 ---
