@@ -53,7 +53,7 @@ drwxr-xr-x  nomad_plan/      [ LOADING... destination not yet set ]
 
 ### `> cat tech_stack.sh`
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,js,html,css,mysql,git,github,vscode,jupyter,tensorflow,opencv,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,js,html,css,mysql,git,github,vscode,opencv,pytorch)](https://skillicons.dev)
 
 ---
 
